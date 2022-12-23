@@ -153,6 +153,7 @@ The list with all known valid keys can be found [here](https://github.com/floria
 - TX-65CX800E
 - TX-65EXW784
 - TX-65FX720W
+- TX-65JZ1500
 - TX-L42ET50
 - TX-L47ET60E (can't power on)
 - TX LF37E30 (can't power on)
